@@ -36,10 +36,10 @@ article#video {
 #aviso {
     font-size: 0.5em;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     padding: 8px;
     color: red;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(2, 2, 2);
 }
 /*Configuração de links */
 
