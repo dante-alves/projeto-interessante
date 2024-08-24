@@ -26,7 +26,8 @@
     --font2: "Sriracha", cursive; /*Essa variável não está funcionando */
 }
 /*Configuração do vídeo */
-div#video {
+article#video {
+    padding: 0px;
     position: fixed;
     bottom: 0;
     right: 0;
