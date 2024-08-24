@@ -75,7 +75,7 @@ section > p {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: right middle;
     box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.773);
 }
 
@@ -86,11 +86,11 @@ section > p {
     display: inline-block;
 }
 #image1 {
-    background-image: url("imagens/background001.jpg");
+    background-image: url("imagens/rick1.jpeg");
 }
 
 #image2 {
-    background-image: url("imagens/background002.jpg");
+    background-image: url("imagens/rick2.jpeg");
 }
 /*Configuração do footer */
 
